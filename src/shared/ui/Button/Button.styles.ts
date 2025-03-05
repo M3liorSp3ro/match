@@ -6,9 +6,8 @@ export const StyledButton = styled.button`
   justify-content: center;
   gap: 10px;
   padding: 15px 40px;
-  font-size: 16px;
-  font-weight: bold;
-  color: white;
+  font-size: 18px;
+  color: #fff;
   background: #eb0237;
   border: none;
   border-radius: 4px;
